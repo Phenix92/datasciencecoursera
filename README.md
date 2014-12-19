@@ -1,6 +1,6 @@
 datasciencecoursera
 ===================
 
-Git Repository for the course "The Data Scientist’s Toolbox" from coursera
+Git Repository for the course "Data Science" from coursera
 
 Guillaume C.
